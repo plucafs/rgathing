@@ -18,9 +18,9 @@ A graphical file content searcher, on top of rga
 [Linux](https://github.com/plucafs/rgathing/releases/download/v0.1.0/rgathing-linux)
 
 ## Credits
-[ripgrep-all](https://github.com/phiresky/ripgrep-all)
-[pi](https://github.com/earendil-works/pi)
-[OpenCode](https://github.com/anomalyco/opencode)
+- [ripgrep-all](https://github.com/phiresky/ripgrep-all)
+- [pi](https://github.com/earendil-works/pi)
+- [OpenCode](https://github.com/anomalyco/opencode)
 
 ## License
 MIT
