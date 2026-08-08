@@ -281,7 +281,7 @@ fn render_find_bar(ui: &mut egui::Ui, app: &mut RgaGuiApp) {
         }
 
         ui.separator();
-        if ui.button("⌃ Close").clicked() || (ui.input(|i| i.key_pressed(egui::Key::Escape))) {
+        if ui.button("Close").clicked() || (ui.input(|i| i.key_pressed(egui::Key::Escape))) {
             app.show_find_bar = false;
         }
     });
